@@ -1,7 +1,7 @@
 IMAD PROJECT
 1. First install python version 3.6.3 or higher in your local machine.
 2. Run "pip install Flask" in your cmd or terminal.
-3. Run "pip install requests" in your cmd of terminal.
+3. Run "pip install requests" in your cmd or terminal.
 4. Run "python first.py" in your cmd or terminal.
 
 Now server is running in your local machine at port no:5000
