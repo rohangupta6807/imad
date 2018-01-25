@@ -67,7 +67,7 @@ def setcookie():
 
 
 #------------------------------TASK 4-------------------------------------
-@app.route('/getcookie')
+@app.route('/getcookies')
 def getcookie():
     #if cookie is pesent then retrieve cookie from their key
     cookie=request.cookies.get('name') + '</br>' + request.cookies.get('age')
