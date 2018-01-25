@@ -13,7 +13,7 @@ URL according to their functions
 1. 127.0.0.1:5000 - Main index of server - response with string
 2. 127.0.0.1:5000/authors - It will list all the author's name and count their number of post .
 3. 127.0.0.1:5000/setcookie - it will set the cookie with name and age .
-4. 127.0.0.1:5000/getcookie - it will gives the list of cookies acoording to their key .
+4. 127.0.0.1:5000/getcookies - it will gives the list of cookies acoording to their key .
 5. 127.0.0.1:5000/robots.txt - it shows blocked message or abort your request.
 6. 127.0.0.1:5000/html - it will open gives the file present at /templates/main.html to client.
 7. 127.0.0.1:5000/input - it will log all your inputs present in textbox by printing at server side.
